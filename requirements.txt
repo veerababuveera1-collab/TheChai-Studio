@@ -1,0 +1,16 @@
+# UI and Framework
+streamlit
+
+# Media Handling (For Images and Reels)
+Pillow
+opencv-python-headless
+
+# Web and API (If you connect to LLM APIs later)
+requests
+
+# Data Handling
+pandas
+numpy
+
+# Visualization
+plotly
